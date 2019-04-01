@@ -1,0 +1,127 @@
+{
+    "Categorias": [
+        {
+            "id": 1,
+            "name": "Compra/Venta",
+            "sub-categories": {
+                "Celulares": [
+                    "Iphone",
+                    "Asus",
+                    "Samsung",
+                    "LG",
+                    "Nokia",
+                    "Motorola y Lenovo",
+                    "Sony",
+                    "Blackberry",
+                    "HTC",
+                    "Huawei",
+                    "Xiaomi"
+                ],
+                "Líneas/Accesorios": [],
+                "Reproductor MP3/MP4/IPOD": [],
+                "Reproductor DVD/VCD/DVR": [],
+                "Televisor": [
+                    "LG",
+                    "Samsung",
+                    "RCA",
+                    "Panda",
+                    "Haier",
+                    ""
+                ],
+                "Cámara Foto/Video": [],
+                "Aire Acondicionado": [],
+                "Consola Videojuego/Juegos": [],
+                "Satélite": [],
+                "Electrodomésticos": [],
+                "Muebles/Decoración": [],
+                "Ropa/Zapato/Accesorios": [],
+                "Intercambio/Regalo": [],
+                "Divisas": [],
+                "Mascotas/Animales": [],
+                "Libros/Revistas": [],
+                "Joyas/Relojes": [],
+                "Antiguedades/Colección": [],
+                "Implementos Deportivos": [],
+                "Arte": [],
+                "Otros" : []
+            }
+        },
+        {
+            "id": 2,
+            "name": "Autos",
+            "sub-categories": [
+                "Carros",
+                "Motos",
+                "Bicicletas",
+                "Piezas/Accesorios",
+                "Alquiler",
+                "Mecánico",
+                "Otros"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Vivienda",
+            "sub-categories": [
+                "Compra/Venta",
+                "Permuta",
+                "Alquiler a cubanos",
+                "Alquiler a extranjeros",
+                "Casa en la playa"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Empleos",
+            "sub-categories": [
+                "Ofertas de empleo",
+                "Busco empleo"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Servicios",
+            "sub-categories": [
+                "Clases/Cursos",
+                "Informática/Programación",
+                "Películas/Series/Videos",
+                "Limpieza/Doméstico",
+                "Foto/Video",
+                "Construcción/Mantenimiento",
+                "Reparación Electrónica",
+                "Peluquería/Barbería/Belleza",
+                "Restaurantes/Gastronomía",
+                "Diseño/Decoración",
+                "Música/Animación/Shows",
+                "Relojero/Joyero",
+                "Gimnasio/Masaje/Entrenador",
+                "Otros"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Computadoras",
+            "sub-categories": [
+                "PC de Escritorio",
+                "Laptop",
+                "Microprocesador",
+                "Monitor",
+                "Motherboard",
+                "Memoria RAM/FLASH",
+                "Disco Duro Interno/Externo",
+                "Chasis/Fuente",
+                "Tarjeta de Video",
+                "Tarjeta de Sonido/Bocinas",
+                "Quemador/Lector DVD/CD",
+                "Backup/UPS",
+                "Impresora/Cartuchos",
+                "Modem/Wifi/Red",
+                "Webcam/Microf/Audífono",
+                "Teclado/Mouse",
+                "Internet/Email",
+                "CD/DVD Virgen",
+                "Otros"
+            ]
+        }
+    ]
+}

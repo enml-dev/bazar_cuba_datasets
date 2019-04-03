@@ -141,7 +141,7 @@
         {
             "id": "9",
             "nombre": "Ciego de Ávila",
-            "municipio": [
+            "municipios": [
                 "Ciro Redondo",
                 "Baraguá",
                 "Bolivia",
@@ -240,7 +240,10 @@
         },
         {
             "id": "15",
-            "nombre": "Isla de la Juventud"
+            "nombre": "Isla de la Juventud",
+            "municipios": [
+                "Isla de la Juventud"
+            ]
         },
         {
             "id": 16,

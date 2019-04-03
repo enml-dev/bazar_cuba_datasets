@@ -1,0 +1,77 @@
+{
+    "Categorias": [
+        {
+            "id": 1,
+            "name": "Electronicos y Celulares",
+            "sub-categories": [
+                {
+                    "name": "Celulares y telefonia",
+                    "types": [
+                        "Iphone",
+                        "Asus",
+                        "Samsung",
+                        "LG",
+                        "Nokia",
+                        "Motorola y Lenovo",
+                        "Sony",
+                        "Blackberry",
+                        "HTC",
+                        "Huawei",
+                        "Xiaomi"
+                    ]
+                },
+                {
+                    "name": "Computadoras y accesorios",
+                    "types": [
+                        "PCs y computadoras",
+                        "Notebook y netbooks",
+                        "Ipad y tablet",
+                        "Impresoras y suplementos",
+                        "Piezas y accesorios"
+                    ]
+                },
+                {
+                    "name": "Videojuegos",
+                    "types": []
+                },
+                {
+                    "name": "Audio, TV, video y fotografia",
+                    "types": [
+                        "TVs",
+                        "Ipods y radios portatiles",
+                        "Equipos de audio profesionales",
+                        "Proyectores"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Autos y piezas",
+            "sub-categories": [
+                
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Autos y piezas",
+            "sub-categories": [
+                
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Autos y piezas",
+            "sub-categories": [
+                
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Autos y piezas",
+            "sub-categories": [
+                
+            ]
+        }
+    ]
+}

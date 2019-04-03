@@ -1,0 +1,335 @@
+{
+    "Categorias": [
+        {
+            "id": 1,
+            "name": "Compra/Venta",
+            "sub-categories": [
+                {
+                    "name": "Celulares",
+                    "types": [
+                        "Iphone",
+                        "Asus",
+                        "Samsung",
+                        "LG",
+                        "Nokia",
+                        "Motorola y Lenovo",
+                        "Sony",
+                        "Blackberry",
+                        "HTC",
+                        "Huawei",
+                        "Xiaomi"
+                    ]
+                },
+                {
+                    "name": "Líneas/Accesorios",
+                    "types": []
+                },
+                {
+                    "name": "Reproductor MP3/MP4/IPOD",
+                    "types": []
+                },
+                {
+                    "name": "Reproductor DVD/VCD/DVR",
+                    "types": []
+                },
+                {
+                    "name": "Televisor",
+                    "types": [
+                        "LG",
+                        "Samsung",
+                        "RCA",
+                        "Panda",
+                        "Haier",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Cámara Foto/Video",
+                    "types": []
+                },
+                {
+                    "name": "Aire Acondicionado",
+                    "types": []
+                },
+                {
+                    "name": "Consola Videojuego/Juegos",
+                    "types": []
+                },
+                {
+                    "name": "Satélite",
+                    "types": []
+                },
+                {
+                    "name": "Electrodomésticos",
+                    "types": []
+                },
+                {
+                    "name": "Muebles/Decoración",
+                    "types": []
+                },
+                {
+                    "name": "Ropa/Zapato/Accesorios",
+                    "types": []
+                },
+                {
+                    "name": "Intercambio/Regalo",
+                    "types": []
+                },
+                {
+                    "name": "Divisas",
+                    "types": []
+                },
+                {
+                    "name": "Mascotas/Animales",
+                    "types": []
+                },
+                {
+                    "name": "Libros/Revistas",
+                    "types": []
+                },
+                {
+                    "name": "Joyas/Relojes",
+                    "types": []
+                },
+                {
+                    "name": "Antiguedades/Colección",
+                    "types": []
+                },
+                {
+                    "name": "Implementos Deportivos",
+                    "types": []
+                },
+                {
+                    "name": "Arte",
+                    "types": []
+                },
+                {
+                    "name": "Otros",
+                    "types": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Autos",
+            "sub-categories": [
+                {
+                    "name": "Carros",
+                    "types": []
+                },
+                {
+                    "name": "Motos",
+                    "types": []
+                },
+                {
+                    "name": "Bicicletas",
+                    "types": []
+                },
+                {
+                    "name": "Piezas/Accesorios",
+                    "types": []
+                },
+                {
+                    "name": "Alquiler",
+                    "types": []
+                },
+                {
+                    "name": "Mecánico",
+                    "types": []
+                },
+                {
+                    "name": "Otros",
+                    "types": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Vivienda",
+            "sub-categories": [
+                {
+                    "name": "Compra/Venta",
+                    "types": []
+                },
+                {
+                    "name": "Permuta",
+                    "types": []
+                },
+                {
+                    "name": "Alquiler a cubanos",
+                    "types": []
+                },
+                {
+                    "name": "Alquiler a extranjeros",
+                    "types": []
+                },
+                {
+                    "name": "Casa en la playa",
+                    "types": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Empleos",
+            "sub-categories": [
+                {
+                    "name": "Ofertas de empleo",
+                    "types": []
+                },
+                {
+                    "name": "Busco empleo",
+                    "types": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Servicios",
+            "sub-categories": [
+                {
+                    "name": "Clases/Cursos",
+                    "types": []
+                },
+                {
+                    "name": "Informática/Programación",
+                    "types": []
+                },
+                {
+                    "name": "Películas/Series/Videos",
+                    "types": []
+                },
+                {
+                    "name": "Limpieza/Doméstico",
+                    "types": []
+                },
+                {
+                    "name": "Foto/Video",
+                    "types": []
+                },
+                {
+                    "name": "Construcción/Mantenimiento",
+                    "types": []
+                },
+                {
+                    "name": "Reparación Electrónica",
+                    "types": []
+                },
+                {
+                    "name": "Peluquería/Barbería/Belleza",
+                    "types": []
+                },
+                {
+                    "name": "Restaurantes/Gastronomía",
+                    "types": []
+                },
+                {
+                    "name": "Diseño/Decoración",
+                    "types": []
+                },
+                {
+                    "name": "Música/Animación/Shows",
+                    "types": []
+                },
+                {
+                    "name": "Relojero/Joyero",
+                    "types": []
+                },
+                {
+                    "name": "Gimnasio/Masaje/Entrenador",
+                    "types": []
+                },
+                {
+                    "name": "Otros",
+                    "types": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Computadoras",
+            "sub-categories": [
+                {
+                    "name": "Modem/Wifi/Red",
+                    "types": []
+                },
+                {
+                    "name": "Impresora/Cartuchos",
+                    "types": []
+                },
+                {
+                    "name": "Backup/UPS",
+                    "types": []
+                },
+                {
+                    "name": "Quemador/Lector DVD/CD",
+                    "types": []
+                },
+                {
+                    "name": "Tarjeta de Sonido/Bocinas",
+                    "types": []
+                },
+                {
+                    "name": "Tarjeta de Video",
+                    "types": []
+                },
+                {
+                    "name": "Chasis/Fuente",
+                    "types": []
+                },
+                {
+                    "name": "Disco Duro Interno/Externo",
+                    "types": []
+                },
+                {
+                    "name": "Memoria RAM/FLASH",
+                    "types": []
+                },
+                {
+                    "name": "Motherboard",
+                    "types": []
+                },
+                {
+                    "name": "Monitor",
+                    "types": []
+                },
+                {
+                    "name": "Microprocesador",
+                    "types": []
+                },
+                {
+                    "name": "Laptop",
+                    "types": []
+                },
+                {
+                    "name": "PC de Escritorio",
+                    "types": []
+                },
+                {
+                    "name": "CD/DVD Virgen",
+                    "types": []
+                },
+                {
+                    "name": "Internet/Email",
+                    "types": []
+                },
+                {
+                    "name": "PC de Escritorio",
+                    "types": []
+                },
+                {
+                    "name": "Teclado/Mouse",
+                    "types": []
+                },
+                {
+                    "name": "Webcam/Microf/Audífono",
+                    "types": []
+                },
+                {
+                    "name": "Otros",
+                    "types": []
+                }
+            ]
+        }
+    ]
+}
